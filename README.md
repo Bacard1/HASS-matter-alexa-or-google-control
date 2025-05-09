@@ -5,7 +5,16 @@
 ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
 [![Български](https://img.shields.io/badge/BG_Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
 
-Integration between Alexa and Home Assistant via Matter Hub for controlling smart devices with voice commands.
+Voice Control for Home Assistant Devices with Alexa or Google Home via Matter
+
+This repository provides an integration between Home Assistant and popular voice assistants like Amazon Alexa and Google Home using the new Matter protocol. It allows you to control your smart devices, automations, and scripts via voice commands – making your smart home more accessible, efficient, and enjoyable.
+
+✅ Supports voice control for lights, switches, sensors, scenes, scripts, and more.
+✅ Easy integration steps with Matter Hub.
+✅ Multilingual support (English/Bulgarian).
+✅ Tested and regularly updated.
+
+👉 Ideal for users who want to combine the power of Home Assistant with the convenience of voice assistants.
 
 ---
 
